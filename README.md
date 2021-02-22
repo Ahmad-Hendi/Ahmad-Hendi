@@ -39,7 +39,7 @@ const aboutMe = {
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmad-hndi-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/ahmad_hendi_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<a href="https://www.instagram.com/ahmad_hendi_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=red"/></a>
 </p>
 
 
