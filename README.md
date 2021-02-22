@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/Gif/hereWeAre.gif" width="100%" height="160vh"/>
