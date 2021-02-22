@@ -31,7 +31,16 @@ const aboutMe = {
 - 🤔 I’m looking for an internship or first job in web development.
 - 🔭 I’m currently working on Online-Shop using React
 - 🌱 I’m currently learning React 
-- 📫 Reach me on: 
+
+-----------
+
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</p>
 
 
 
