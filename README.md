@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/Gif/HelloWorld.gif" width="100%"/>
 
 
-<p><em>Student at BeCode<a href="https://becode.org/fr/"></a>, majoring in web development. 🤓 </br>
+<p align="center"><em>I'm a student at BeCode<a href="https://becode.org/fr/"></a>, majoring in web development. 🤓 </br>
 </em></p>
 
 
@@ -35,11 +35,13 @@ const aboutMe = {
 
 
 
-
+<div align="center">
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Hendi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<div/>
 
 
 -----------
