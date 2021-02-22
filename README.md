@@ -32,15 +32,7 @@ const aboutMe = {
 - 🔭 I’m currently working on Online-Shop using React
 - 🌱 I’m currently learning React 
 
------------
 
-<h3 align="center"> Other Accounts 📫 </h3>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmad-hndi-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmad_hendi_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmad_hendi_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=red"/></a>
-</p>
 
 
 
@@ -48,6 +40,17 @@ const aboutMe = {
 <h2>💻 Some stats 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Hendi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+-----------
+
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmad-hndi-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmad_hendi_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</p>
 
 
 
