@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/Gif/hereWeAre.gif" width="100%" height="80vh"/>
+<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/Gif/hereWeAre.gif" width="100%" height="100vh"/>
 
 
 <p><em>Student at BeCode<a href="https://becode.org/fr/"></a>, majoring in web development. 🤓 </br>
