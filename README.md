@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/Gif/HelloWorld.gif" width="100%"/>
 
 
-<p align="center"><em>I'm a student at BeCode<a href="https://becode.org/fr/"></a>, majoring in web development. 🤓 </br>
+<p align="center"><em>Ahmad Hendi majoring in web development. 🤓 </br>
 </em></p>
 
 
